@@ -1,2 +1,3 @@
-# quantii-registry
-Registry for quantii
+# Quantii Registry
+
+Cargo registry for quantii rust projects.
