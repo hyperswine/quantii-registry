@@ -1,0 +1,3 @@
+# In your package that you want to publish to ktra:
+# [registries]
+# some_name = { index = "https://github.com/hyperswine/quantii-registry.git" }

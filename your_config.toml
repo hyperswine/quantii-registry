@@ -1,0 +1,8 @@
+# dont push this to git, keep it local somewhere like ~/.ktra/config.toml
+# place this in the crate you wish to publish to
+# run ktra -c /path/to/config/your_config.toml
+[index_config]
+remote_url = "https://github.com/hyperswine/quantii-registry.git"
+https_username = "YOUR_USERNAME"
+https_password = "GITHUB_ACCESS_TOKEN"
+branch = "main"
